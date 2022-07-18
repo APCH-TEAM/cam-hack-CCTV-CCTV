@@ -1,7 +1,7 @@
 pkg update && pkg upgrade
 pkg install python3 
 pkg install git 
-git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+git clone https://github.com/APCH-TEAM/cam-hack-CCTV-CCTV
 cd Cam-Hackers 
 ls
 python3 cam-hackers.py
